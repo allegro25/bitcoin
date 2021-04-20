@@ -22,7 +22,7 @@ packaging==20.3
 Pillow==7.1.2
 pluggy==0.13.1
 pre-commit==2.3.0
-py==1.8.1
+py==1.10.0
 py2app==0.21
 pyparsing==2.4.7
 PyPDF2==1.26.0
